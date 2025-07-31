@@ -1,4 +1,4 @@
-public class BinaryNode<T> {
+public class TreeNode<T> {
     BinaryNode<T> right; 
     BinaryNode<T> left; 
     T data;
